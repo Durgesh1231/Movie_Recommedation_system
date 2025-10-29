@@ -1,0 +1,1 @@
+Movie Recommendation System predicts user preferences using machine learning and collaborative filtering. It analyzes viewing patterns, ratings, and similarities to suggest personalized movie recommendations, enhancing user engagement and experience.
